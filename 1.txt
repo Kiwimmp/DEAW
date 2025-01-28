@@ -1,2 +1,5 @@
 Contenido inicial
 Hola
+=======
+Adios
+
